@@ -1,2 +1,2 @@
 # Project-CSS
-This is my CSS Project
+This is my CSS Project.
